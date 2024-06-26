@@ -1,8 +1,10 @@
 name: Scan Songs
 
 on:
-    push:
-      branches: ["main"]
+  push:
+    branches:
+      - main    
+  workflow_dispatch:
 
 permissions: write-all
 
