@@ -18,6 +18,23 @@
             "charters": [],
             "secs": 220,
             "id": "eminem-juicewrld-godzilla"
+        },
+        {
+            "zip": "The Living Tombstone - Die In a Fire.zip",
+            "root": "The Living Tombstone - Die In a Fire",
+            "isRootFirstDir": false,
+            "artist": "The Living Tombstone",
+            "title": "Die In a Fire",
+            "album": null,
+            "diffs": {
+                "ds": 3,
+                "ba": 2,
+                "gr": 3,
+                "vl": 2
+            },
+            "charters": [],
+            "secs": 189,
+            "id": "thelivingtombstone-dieinafire"
         }
     ]
 }
