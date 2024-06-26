@@ -1,5 +1,23 @@
 {
     "encore": true,
     "RAW_path": "",
-    "songs": []
+    "songs": [
+        {
+            "zip": "Eminem, Juice WRLD - Godzilla.zip",
+            "root": "Eminem, Juice WRLD - Godzilla",
+            "isRootFirstDir": false,
+            "artist": "Eminem, Juice WRLD",
+            "title": "Godzilla",
+            "album": null,
+            "diffs": {
+                "ds": 3,
+                "ba": 1,
+                "gr": 2,
+                "vl": 6
+            },
+            "charters": [],
+            "secs": 220,
+            "id": "eminem-juicewrld-godzilla"
+        }
+    ]
 }
