@@ -2,6 +2,7 @@ import glob
 import json
 from pathlib import Path
 import re
+import shutil
 import zipfile
 
 def findEncoreRoot(listf):
@@ -22,6 +23,11 @@ def scan():
     zips = glob.glob('Songs/*.zip')
     #print(zips)
 
+    try:
+        shutil.rmtree('covers/')
+    except Exception as e:
+        print('Covers folder does not exist!', e)
+
     for zipa in zips:
 
         with zipfile.ZipFile(zipa, "r") as zip_ref:
@@ -37,6 +43,7 @@ def scan():
 
             isRootFirstDir = encoreRoot == '.'
             readableRoot = '' if isRootFirstDir else encoreRoot + '/'
+            cover = ''
 
             with zip_ref.open(readableRoot + 'info.json') as info:
                 infod = json.load(info)
@@ -47,7 +54,16 @@ def scan():
                 charters = infod.get('charters', [])
                 length = infod.get('length', 0)
                 album = infod.get('album', None)
+                cover = infod['art']
                 #print(infod)
+
+            songid = re.sub('-+', '-', re.sub('[^a-zA-Z0-9]', '-', f'{artist.replace(' ', '-')}-{title.replace(' ', '-')}'.lower())).rstrip('-')
+
+            with zip_ref.open(readableRoot + cover) as coverart:
+                Path('covers/').mkdir(exist_ok=True)
+                Path('covers/'+songid + '/').mkdir(exist_ok=True)
+                with open('covers/' + songid + '/' + cover, 'wb') as coverwrite:
+                    coverwrite.write(coverart.read())
 
             #print(file_list)
             db['songs'].append(
@@ -61,7 +77,7 @@ def scan():
                     "diffs": diffs,
                     "charters": charters,
                     "secs": length,
-                    "id": re.sub('-+', '-', re.sub('[^a-zA-Z0-9]', '-', f'{artist.replace(' ', '')}-{title.replace(' ', '')}'.lower())).rstrip('-')
+                    "id": songid
                 })
             
     saveScan(db)
