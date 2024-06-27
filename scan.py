@@ -43,7 +43,7 @@ def scan():
 
             isRootFirstDir = encoreRoot == '.'
             readableRoot = '' if isRootFirstDir else encoreRoot + '/'
-            cover = ''
+            cover = None
 
             with zip_ref.open(readableRoot + 'info.json') as info:
                 infod = json.load(info)
@@ -77,7 +77,8 @@ def scan():
                     "diffs": diffs,
                     "charters": charters,
                     "secs": length,
-                    "id": songid
+                    "id": songid,
+                    "art": cover
                 })
             
     saveScan(db)
