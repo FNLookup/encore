@@ -43,5 +43,5 @@ jobs:
           git pull
           git add encore.json
           git add covers/*
-          git commit -m "Update Songs"
-          git push
+          git commit -m "Update Songs" || echo "No changes"
+          git push || echo "unable to push"
