@@ -3,30 +3,6 @@
     "RAW_path": "https://github.com/Encore-Developers/songs/raw/main/",
     "songs": [
         {
-            "zip": "Queens of the Stone Age - 3's & 7's.zip",
-            "root": ".",
-            "isRootFirstDir": true,
-            "artist": "Queens of the Stone Age",
-            "title": "3's & 7's",
-            "album": "Era Vulgaris",
-            "diffs": {
-                "drums": 4,
-                "bass": 3,
-                "guitar": 3,
-                "vocals": 1,
-                "plastic_drums": 4,
-                "plastic_bass": 3,
-                "plastic_guitar": 3,
-                "pitched_vocals": 1
-            },
-            "charters": [
-                "3drosalia, Harmonix"
-            ],
-            "secs": 217,
-            "id": "queens-of-the-stone-age-3-s-7-s",
-            "art": "album.png"
-        },
-        {
             "zip": "Eminem, Juice WRLD - Godzilla.zip",
             "root": "Eminem, Juice WRLD - Godzilla",
             "isRootFirstDir": false,
@@ -61,6 +37,30 @@
             "secs": 189,
             "id": "the-living-tombstone-die-in-a-fire",
             "art": "cover.png"
+        },
+        {
+            "zip": "Queens of the Stone Age - 3's & 7's.zip",
+            "root": ".",
+            "isRootFirstDir": true,
+            "artist": "Queens of the Stone Age",
+            "title": "3's & 7's",
+            "album": "Era Vulgaris",
+            "diffs": {
+                "drums": 4,
+                "bass": 3,
+                "guitar": 3,
+                "vocals": 1,
+                "plastic_drums": 4,
+                "plastic_bass": 3,
+                "plastic_guitar": 3,
+                "pitched_vocals": 1
+            },
+            "charters": [
+                "3drosalia, Harmonix"
+            ],
+            "secs": 217,
+            "id": "queens-of-the-stone-age-3-s-7-s",
+            "art": "album.png"
         }
     ]
 }
