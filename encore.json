@@ -39,6 +39,26 @@
             "art": "cover.png"
         },
         {
+            "zip": "Michael McDonald - I Keep Forgettin' (Every Time You're Near).zip",
+            "root": "Michael McDonald - I Keep Forgettin' (Every Time You're Near)",
+            "isRootFirstDir": false,
+            "artist": "Michael McDonald",
+            "title": "I Keep Forgettin' (Every Time You're Near)",
+            "album": "If That's What It Takes",
+            "diffs": {
+                "drums": 3,
+                "bass": 3,
+                "guitar": 3,
+                "vocals": 2
+            },
+            "charters": [
+                "Broque"
+            ],
+            "secs": 226,
+            "id": "michael-mcdonald-i-keep-forgettin-every-time-you-re-near",
+            "art": "cover.png"
+        },
+        {
             "zip": "Queens of the Stone Age - 3's & 7's.zip",
             "root": ".",
             "isRootFirstDir": true,
