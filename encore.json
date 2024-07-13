@@ -140,17 +140,20 @@
             "isRootFirstDir": false,
             "artist": "Chaotrope",
             "title": "Chiasm",
-            "album": null,
+            "album": "The Turning Point",
             "diffs": {
-                "ds": 6,
-                "ba": 6,
-                "gr": 6,
-                "vl": 6,
+                "drums": 6,
+                "bass": 6,
+                "guitar": 6,
+                "vocals": 6,
                 "plastic_drums": 6,
                 "plastic_bass": 6,
                 "plastic_guitar": 6
             },
-            "charters": [],
+            "charters": [
+                "Chaotrope",
+                "LysiX"
+            ],
             "secs": 190,
             "id": "chaotrope-chiasm",
             "art": "cover.png"
