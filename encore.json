@@ -96,6 +96,24 @@
             "art": "cover.png"
         },
         {
+            "zip": "Nighthawk22 - Isolation.zip",
+            "root": "Nighthawk22 - Isolation",
+            "isRootFirstDir": false,
+            "artist": "Nighthawk22",
+            "title": "Isolation",
+            "album": null,
+            "diffs": {
+                "ds": 6,
+                "ba": 2,
+                "gr": 6,
+                "vl": 6
+            },
+            "charters": [],
+            "secs": 205,
+            "id": "nighthawk22-isolation",
+            "art": "cover.png"
+        },
+        {
             "zip": "Chaotrope - Chiasm.zip",
             "root": "Chaotrope - Chiasm",
             "isRootFirstDir": false,
