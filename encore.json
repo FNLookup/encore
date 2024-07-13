@@ -21,6 +21,27 @@
             "art": "cover.png"
         },
         {
+            "zip": "Deftones - My Own Summer.zip",
+            "root": "Deftones - My Own Summer",
+            "isRootFirstDir": false,
+            "artist": "Deftones",
+            "title": "My Own Summer (Shove It)",
+            "album": null,
+            "diffs": {
+                "ds": 3,
+                "ba": 3,
+                "gr": 4,
+                "vl": 2,
+                "plastic_drums": 2,
+                "plastic_bass": 4,
+                "plastic_guitar": 2
+            },
+            "charters": [],
+            "secs": 219,
+            "id": "deftones-my-own-summer-shove-it",
+            "art": "cover.png"
+        },
+        {
             "zip": "Dimrain47 - The Falling Mysts.zip",
             "root": "Dimrain47 - The Falling Mysts",
             "isRootFirstDir": false,
