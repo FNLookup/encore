@@ -8,17 +8,19 @@
             "isRootFirstDir": false,
             "artist": "SEGA",
             "title": "Stardust Speedway Zone (Past)",
-            "album": null,
+            "album": "Sonic CD",
             "diffs": {
-                "ds": 4,
-                "ba": 5,
-                "gr": 6,
-                "vl": 3,
+                "drums": 4,
+                "bass": 5,
+                "guitar": 6,
+                "vocals": 3,
                 "plastic_drums": 5,
                 "plastic_bass": 5,
                 "plastic_guitar": 6
             },
-            "charters": [],
+            "charters": [
+                "LysiX"
+            ],
             "secs": 160,
             "id": "sega-stardust-speedway-zone-past",
             "art": "cover.png"
@@ -29,14 +31,16 @@
             "isRootFirstDir": false,
             "artist": "SEGA (Yuzo Koshiro), Encore",
             "title": "Sky Base Zone (C64)",
-            "album": null,
+            "album": "Sonic the Hedgehog for C64",
             "diffs": {
-                "ds": 0,
-                "ba": 4,
-                "gr": 5,
-                "vl": 4
+                "drums": 0,
+                "bass": 4,
+                "guitar": 5,
+                "vocals": 4
             },
-            "charters": [],
+            "charters": [
+                "LysiX"
+            ],
             "secs": 91,
             "id": "sega-yuzo-koshiro-encore-sky-base-zone-c64",
             "art": "cover.png"
@@ -47,17 +51,20 @@
             "isRootFirstDir": false,
             "artist": "Deftones",
             "title": "My Own Summer (Shove It)",
-            "album": null,
+            "album": "Around The Fur",
             "diffs": {
-                "ds": 3,
-                "ba": 3,
-                "gr": 4,
-                "vl": 2,
+                "drums": 3,
+                "bass": 3,
+                "guitar": 4,
+                "vocals": 2,
                 "plastic_drums": 2,
                 "plastic_bass": 4,
                 "plastic_guitar": 2
             },
-            "charters": [],
+            "charters": [
+                "Harmonix",
+                "LysiX"
+            ],
             "secs": 219,
             "id": "deftones-my-own-summer-shove-it",
             "art": "cover.png"
@@ -68,14 +75,16 @@
             "isRootFirstDir": false,
             "artist": "Dimrain47",
             "title": "The Falling Mysts",
-            "album": null,
+            "album": "The Dimrain47 Collection",
             "diffs": {
-                "ds": 5,
-                "ba": 1,
-                "gr": 6,
-                "vl": 4
+                "drums": 5,
+                "bass": 1,
+                "guitar": 6,
+                "vocals": 4
             },
-            "charters": [],
+            "charters": [
+                "LysiX"
+            ],
             "secs": 298,
             "id": "dimrain47-the-falling-mysts",
             "art": "cover.png"
@@ -86,14 +95,16 @@
             "isRootFirstDir": false,
             "artist": "Eminem, Juice WRLD",
             "title": "Godzilla",
-            "album": null,
+            "album": "Music to Be Murdered By",
             "diffs": {
-                "ds": 3,
-                "ba": 1,
-                "gr": 2,
-                "vl": 6
+                "drums": 3,
+                "bass": 1,
+                "guitar": 2,
+                "vocals": 6
             },
-            "charters": [],
+            "charters": [
+                "Equinox"
+            ],
             "secs": 220,
             "id": "eminem-juice-wrld-godzilla",
             "art": "cover.png"
@@ -104,14 +115,16 @@
             "isRootFirstDir": false,
             "artist": "The Living Tombstone",
             "title": "Die In a Fire",
-            "album": null,
+            "album": "Internet Childhood",
             "diffs": {
-                "ds": 3,
-                "ba": 2,
-                "gr": 3,
-                "vl": 2
+                "drums": 3,
+                "bass": 2,
+                "guitar": 3,
+                "vocals": 2
             },
-            "charters": [],
+            "charters": [
+                "Equinox"
+            ],
             "secs": 189,
             "id": "the-living-tombstone-die-in-a-fire",
             "art": "cover.png"
@@ -122,14 +135,16 @@
             "isRootFirstDir": false,
             "artist": "Nighthawk22",
             "title": "Isolation",
-            "album": null,
+            "album": "Darkmatter",
             "diffs": {
-                "ds": 6,
-                "ba": 2,
-                "gr": 6,
-                "vl": 6
+                "drums": 6,
+                "bass": 2,
+                "guitar": 6,
+                "vocals": 6
             },
-            "charters": [],
+            "charters": [
+                "LysiX"
+            ],
             "secs": 205,
             "id": "nighthawk22-isolation",
             "art": "cover.png"
