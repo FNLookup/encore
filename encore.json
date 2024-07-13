@@ -3,6 +3,27 @@
     "RAW_path": "https://github.com/Encore-Developers/songs/raw/main/",
     "songs": [
         {
+            "zip": "SEGA - Stardust Speedway Zone (Past).zip",
+            "root": "SEGA - Stardust Speedway Zone (Past)",
+            "isRootFirstDir": false,
+            "artist": "SEGA",
+            "title": "Stardust Speedway Zone (Past)",
+            "album": null,
+            "diffs": {
+                "ds": 4,
+                "ba": 5,
+                "gr": 6,
+                "vl": 3,
+                "plastic_drums": 5,
+                "plastic_bass": 5,
+                "plastic_guitar": 6
+            },
+            "charters": [],
+            "secs": 160,
+            "id": "sega-stardust-speedway-zone-past",
+            "art": "cover.png"
+        },
+        {
             "zip": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64).zip",
             "root": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64)",
             "isRootFirstDir": false,
