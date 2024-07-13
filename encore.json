@@ -3,6 +3,42 @@
     "RAW_path": "https://github.com/Encore-Developers/songs/raw/main/",
     "songs": [
         {
+            "zip": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64).zip",
+            "root": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64)",
+            "isRootFirstDir": false,
+            "artist": "SEGA (Yuzo Koshiro), Encore",
+            "title": "Sky Base Zone (C64)",
+            "album": null,
+            "diffs": {
+                "ds": 0,
+                "ba": 4,
+                "gr": 5,
+                "vl": 4
+            },
+            "charters": [],
+            "secs": 91,
+            "id": "sega-yuzo-koshiro-encore-sky-base-zone-c64",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Dimrain47 - The Falling Mysts.zip",
+            "root": "Dimrain47 - The Falling Mysts",
+            "isRootFirstDir": false,
+            "artist": "Dimrain47",
+            "title": "The Falling Mysts",
+            "album": null,
+            "diffs": {
+                "ds": 5,
+                "ba": 1,
+                "gr": 6,
+                "vl": 4
+            },
+            "charters": [],
+            "secs": 298,
+            "id": "dimrain47-the-falling-mysts",
+            "art": "cover.png"
+        },
+        {
             "zip": "Eminem, Juice WRLD - Godzilla.zip",
             "root": "Eminem, Juice WRLD - Godzilla",
             "isRootFirstDir": false,
@@ -36,6 +72,27 @@
             "charters": [],
             "secs": 189,
             "id": "the-living-tombstone-die-in-a-fire",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Chaotrope - Chiasm.zip",
+            "root": "Chaotrope - Chiasm",
+            "isRootFirstDir": false,
+            "artist": "Chaotrope",
+            "title": "Chiasm",
+            "album": null,
+            "diffs": {
+                "ds": 6,
+                "ba": 6,
+                "gr": 6,
+                "vl": 6,
+                "plastic_drums": 6,
+                "plastic_bass": 6,
+                "plastic_guitar": 6
+            },
+            "charters": [],
+            "secs": 190,
+            "id": "chaotrope-chiasm",
             "art": "cover.png"
         },
         {
