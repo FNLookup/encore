@@ -90,6 +90,29 @@
             "art": "cover.png"
         },
         {
+            "zip": "Frizk - not askin 4 much.zip",
+            "root": "Frizk - not askin 4 much",
+            "isRootFirstDir": false,
+            "artist": "Frizk",
+            "title": "not askin 4 much",
+            "album": "not askin 4 much",
+            "diffs": {
+                "drums": 4,
+                "bass": 1,
+                "guitar": 4,
+                "vocals": 1,
+                "plastic_drums": 4,
+                "plastic_bass": 1,
+                "plastic_guitar": 4
+            },
+            "charters": [
+                "tposejank"
+            ],
+            "secs": 132,
+            "id": "frizk-not-askin-4-much",
+            "art": "cover.png"
+        },
+        {
             "zip": "Eminem, Juice WRLD - Godzilla.zip",
             "root": "Eminem, Juice WRLD - Godzilla",
             "isRootFirstDir": false,
