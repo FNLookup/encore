@@ -113,6 +113,26 @@
             "art": "cover.png"
         },
         {
+            "zip": "Harry Styles - Late Night Talking.zip",
+            "root": "Harry Styles - Late Night Talking",
+            "isRootFirstDir": false,
+            "artist": "Harry Styles",
+            "title": "Late Night Talking",
+            "album": "Harry's House",
+            "diffs": {
+                "drums": 2,
+                "bass": 0,
+                "guitar": 1,
+                "vocals": 2
+            },
+            "charters": [
+                "Broque"
+            ],
+            "secs": 300,
+            "id": "harry-styles-late-night-talking",
+            "art": "cover.png"
+        },
+        {
             "zip": "Eminem, Juice WRLD - Godzilla.zip",
             "root": "Eminem, Juice WRLD - Godzilla",
             "isRootFirstDir": false,
