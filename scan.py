@@ -12,7 +12,7 @@ def findEncoreRoot(listf):
         
 db = {
     "encore": True,
-    "RAW_path": "https://github.com/Encore-Developers/songs/raw/main/",
+    "RAW_path": "https://raw.githubusercontent.com/Encore-Developers/songs/main/",
     "songs": []
 }
 
