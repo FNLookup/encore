@@ -3,47 +3,50 @@
     "RAW_path": "https://raw.githubusercontent.com/Encore-Developers/songs/main/",
     "songs": [
         {
-            "zip": "Deftones - My Own Summer.zip",
-            "root": "Deftones - My Own Summer",
+            "zip": "Chaotrope - Chiasm.zip",
+            "root": "Chaotrope - Chiasm",
             "isRootFirstDir": false,
-            "artist": "Deftones",
-            "title": "My Own Summer (Shove It)",
-            "album": "Around The Fur",
+            "artist": "Chaotrope",
+            "title": "Chiasm",
+            "album": "The Turning Point",
             "diffs": {
-                "drums": 3,
-                "bass": 3,
-                "guitar": 4,
-                "vocals": 2,
-                "plastic_drums": 2,
-                "plastic_bass": 4,
-                "plastic_guitar": 2
+                "drums": 6,
+                "bass": 6,
+                "guitar": 6,
+                "vocals": 6,
+                "plastic_drums": 6,
+                "plastic_bass": 6,
+                "plastic_guitar": 6
             },
             "charters": [
-                "Harmonix",
+                "Chaotrope",
                 "LysiX"
             ],
-            "secs": 219,
-            "id": "deftones-my-own-summer-shove-it",
+            "secs": 190,
+            "id": "chaotrope-chiasm",
             "art": "cover.png"
         },
         {
-            "zip": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64).zip",
-            "root": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64)",
+            "zip": "Frizk - not askin 4 much.zip",
+            "root": "Frizk - not askin 4 much",
             "isRootFirstDir": false,
-            "artist": "SEGA (Yuzo Koshiro), Encore",
-            "title": "Sky Base Zone (C64)",
-            "album": "Sonic the Hedgehog for C64",
+            "artist": "Frizk",
+            "title": "not askin 4 much",
+            "album": "not askin 4 much",
             "diffs": {
-                "drums": 0,
-                "bass": 4,
-                "guitar": 5,
-                "vocals": 4
+                "drums": 4,
+                "bass": 1,
+                "guitar": 4,
+                "vocals": 1,
+                "plastic_drums": 4,
+                "plastic_bass": 1,
+                "plastic_guitar": 4
             },
             "charters": [
-                "LysiX"
+                "tposejank"
             ],
-            "secs": 91,
-            "id": "sega-yuzo-koshiro-encore-sky-base-zone-c64",
+            "secs": 132,
+            "id": "frizk-not-askin-4-much",
             "art": "cover.png"
         },
         {
@@ -87,6 +90,117 @@
             "art": "cover.png"
         },
         {
+            "zip": "Queens of the Stone Age - 3's & 7's.zip",
+            "root": "Queens of the Stone Age - 3's & 7's",
+            "isRootFirstDir": false,
+            "artist": "Queens of the Stone Age",
+            "title": "3's & 7's",
+            "album": "Era Vulgaris",
+            "diffs": {
+                "drums": 4,
+                "bass": 3,
+                "guitar": 3,
+                "vocals": 1,
+                "plastic_drums": 4,
+                "plastic_bass": 3,
+                "plastic_guitar": 3,
+                "pitched_vocals": 1
+            },
+            "charters": [
+                "3drosalia, Harmonix"
+            ],
+            "secs": 217,
+            "id": "queens-of-the-stone-age-3-s-7-s",
+            "art": "album.png"
+        },
+        {
+            "zip": "Dimrain47 - The Falling Mysts.zip",
+            "root": "Dimrain47 - The Falling Mysts",
+            "isRootFirstDir": false,
+            "artist": "Dimrain47",
+            "title": "The Falling Mysts",
+            "album": "The Dimrain47 Collection",
+            "diffs": {
+                "drums": 5,
+                "bass": 1,
+                "guitar": 6,
+                "vocals": 4
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 298,
+            "id": "dimrain47-the-falling-mysts",
+            "art": "cover.png"
+        },
+        {
+            "zip": "SEGA - Stardust Speedway Zone (Past).zip",
+            "root": "SEGA - Stardust Speedway Zone (Past)",
+            "isRootFirstDir": false,
+            "artist": "SEGA",
+            "title": "Stardust Speedway Zone (Past)",
+            "album": "Sonic CD",
+            "diffs": {
+                "drums": 4,
+                "bass": 5,
+                "guitar": 6,
+                "vocals": 3,
+                "plastic_drums": 5,
+                "plastic_bass": 5,
+                "plastic_guitar": 6
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 160,
+            "id": "sega-stardust-speedway-zone-past",
+            "art": "cover.png"
+        },
+        {
+            "zip": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64).zip",
+            "root": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64)",
+            "isRootFirstDir": false,
+            "artist": "SEGA (Yuzo Koshiro), Encore",
+            "title": "Sky Base Zone (C64)",
+            "album": "Sonic the Hedgehog for C64",
+            "diffs": {
+                "drums": 0,
+                "bass": 4,
+                "guitar": 5,
+                "vocals": 4
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 91,
+            "id": "sega-yuzo-koshiro-encore-sky-base-zone-c64",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Deftones - My Own Summer.zip",
+            "root": "Deftones - My Own Summer",
+            "isRootFirstDir": false,
+            "artist": "Deftones",
+            "title": "My Own Summer (Shove It)",
+            "album": "Around The Fur",
+            "diffs": {
+                "drums": 3,
+                "bass": 3,
+                "guitar": 4,
+                "vocals": 2,
+                "plastic_drums": 2,
+                "plastic_bass": 4,
+                "plastic_guitar": 2
+            },
+            "charters": [
+                "Harmonix",
+                "LysiX"
+            ],
+            "secs": 219,
+            "id": "deftones-my-own-summer-shove-it",
+            "art": "cover.png"
+        },
+        {
             "zip": "Harry Styles - Late Night Talking.zip",
             "root": "Harry Styles - Late Night Talking",
             "isRootFirstDir": false,
@@ -124,120 +238,6 @@
             ],
             "secs": 189,
             "id": "the-living-tombstone-die-in-a-fire",
-            "art": "cover.png"
-        },
-        {
-            "zip": "Queens of the Stone Age - 3's & 7's.zip",
-            "root": ".",
-            "isRootFirstDir": true,
-            "artist": "Queens of the Stone Age",
-            "title": "3's & 7's",
-            "album": "Era Vulgaris",
-            "diffs": {
-                "drums": 4,
-                "bass": 3,
-                "guitar": 3,
-                "vocals": 1,
-                "plastic_drums": 4,
-                "plastic_bass": 3,
-                "plastic_guitar": 3,
-                "pitched_vocals": 1
-            },
-            "charters": [
-                "3drosalia, Harmonix"
-            ],
-            "secs": 217,
-            "id": "queens-of-the-stone-age-3-s-7-s",
-            "art": "album.png"
-        },
-        {
-            "zip": "Frizk - not askin 4 much.zip",
-            "root": "Frizk - not askin 4 much",
-            "isRootFirstDir": false,
-            "artist": "Frizk",
-            "title": "not askin 4 much",
-            "album": "not askin 4 much",
-            "diffs": {
-                "drums": 4,
-                "bass": 1,
-                "guitar": 4,
-                "vocals": 1,
-                "plastic_drums": 4,
-                "plastic_bass": 1,
-                "plastic_guitar": 4
-            },
-            "charters": [
-                "tposejank"
-            ],
-            "secs": 132,
-            "id": "frizk-not-askin-4-much",
-            "art": "cover.png"
-        },
-        {
-            "zip": "SEGA - Stardust Speedway Zone (Past).zip",
-            "root": "SEGA - Stardust Speedway Zone (Past)",
-            "isRootFirstDir": false,
-            "artist": "SEGA",
-            "title": "Stardust Speedway Zone (Past)",
-            "album": "Sonic CD",
-            "diffs": {
-                "drums": 4,
-                "bass": 5,
-                "guitar": 6,
-                "vocals": 3,
-                "plastic_drums": 5,
-                "plastic_bass": 5,
-                "plastic_guitar": 6
-            },
-            "charters": [
-                "LysiX"
-            ],
-            "secs": 160,
-            "id": "sega-stardust-speedway-zone-past",
-            "art": "cover.png"
-        },
-        {
-            "zip": "Dimrain47 - The Falling Mysts.zip",
-            "root": "Dimrain47 - The Falling Mysts",
-            "isRootFirstDir": false,
-            "artist": "Dimrain47",
-            "title": "The Falling Mysts",
-            "album": "The Dimrain47 Collection",
-            "diffs": {
-                "drums": 5,
-                "bass": 1,
-                "guitar": 6,
-                "vocals": 4
-            },
-            "charters": [
-                "LysiX"
-            ],
-            "secs": 298,
-            "id": "dimrain47-the-falling-mysts",
-            "art": "cover.png"
-        },
-        {
-            "zip": "Chaotrope - Chiasm.zip",
-            "root": "Chaotrope - Chiasm",
-            "isRootFirstDir": false,
-            "artist": "Chaotrope",
-            "title": "Chiasm",
-            "album": "The Turning Point",
-            "diffs": {
-                "drums": 6,
-                "bass": 6,
-                "guitar": 6,
-                "vocals": 6,
-                "plastic_drums": 6,
-                "plastic_bass": 6,
-                "plastic_guitar": 6
-            },
-            "charters": [
-                "Chaotrope",
-                "LysiX"
-            ],
-            "secs": 190,
-            "id": "chaotrope-chiasm",
             "art": "cover.png"
         },
         {
