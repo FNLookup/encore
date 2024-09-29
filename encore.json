@@ -50,6 +50,52 @@
             "art": "cover.png"
         },
         {
+            "zip": "Dimrain47 - Infernoplex.zip",
+            "root": "Dimrain47 - Infernoplex",
+            "isRootFirstDir": false,
+            "artist": "Dimrain47",
+            "title": "Infernoplex",
+            "album": "The Dimrain47 Collection",
+            "diffs": {
+                "drums": 6,
+                "bass": 5,
+                "guitar": 6,
+                "vocals": 4,
+                "plastic_drums": 6,
+                "plastic_bass": 5,
+                "plastic_guitar": 6
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 230,
+            "id": "dimrain47-infernoplex",
+            "art": "cover.png"
+        },
+        {
+            "zip": "NyxTheShield - Bring it On (Rock Ver.).zip",
+            "root": "NyxTheShield - Bring it On (Rock Ver.)",
+            "isRootFirstDir": false,
+            "artist": "NyxTheShield",
+            "title": "Bring it On (Rock Ver.)",
+            "album": "Glitchtale OST",
+            "diffs": {
+                "drums": 5,
+                "bass": 3,
+                "guitar": 4,
+                "vocals": 4,
+                "plastic_drums": 4,
+                "plastic_bass": 3,
+                "plastic_guitar": 5
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 113,
+            "id": "nyxtheshield-bring-it-on-rock-ver",
+            "art": "cover.png"
+        },
+        {
             "zip": "Nighthawk22 - Isolation.zip",
             "root": "Nighthawk22 - Isolation",
             "isRootFirstDir": false,
