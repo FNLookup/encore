@@ -3,30 +3,6 @@
     "RAW_path": "https://raw.githubusercontent.com/Encore-Developers/songs/main/",
     "songs": [
         {
-            "zip": "Chaotrope - Chiasm.zip",
-            "root": "Chaotrope - Chiasm",
-            "isRootFirstDir": false,
-            "artist": "Chaotrope",
-            "title": "Chiasm",
-            "album": "The Turning Point",
-            "diffs": {
-                "drums": 6,
-                "bass": 6,
-                "guitar": 6,
-                "vocals": 6,
-                "plastic_drums": 6,
-                "plastic_bass": 6,
-                "plastic_guitar": 6
-            },
-            "charters": [
-                "Chaotrope",
-                "LysiX"
-            ],
-            "secs": 190,
-            "id": "chaotrope-chiasm",
-            "art": "cover.png"
-        },
-        {
             "zip": "Frizk - not askin 4 much.zip",
             "root": "Frizk - not askin 4 much",
             "isRootFirstDir": false,
@@ -50,72 +26,6 @@
             "art": "cover.png"
         },
         {
-            "zip": "Dimrain47 - Infernoplex.zip",
-            "root": "Dimrain47 - Infernoplex",
-            "isRootFirstDir": false,
-            "artist": "Dimrain47",
-            "title": "Infernoplex",
-            "album": "The Dimrain47 Collection",
-            "diffs": {
-                "drums": 6,
-                "bass": 5,
-                "guitar": 6,
-                "vocals": 4,
-                "plastic_drums": 6,
-                "plastic_bass": 5,
-                "plastic_guitar": 6
-            },
-            "charters": [
-                "LysiX"
-            ],
-            "secs": 230,
-            "id": "dimrain47-infernoplex",
-            "art": "cover.png"
-        },
-        {
-            "zip": "NyxTheShield - Bring it On (Rock Ver.).zip",
-            "root": "NyxTheShield - Bring it On (Rock Ver.)",
-            "isRootFirstDir": false,
-            "artist": "NyxTheShield",
-            "title": "Bring it On (Rock Ver.)",
-            "album": "Glitchtale OST",
-            "diffs": {
-                "drums": 5,
-                "bass": 3,
-                "guitar": 4,
-                "vocals": 4,
-                "plastic_drums": 4,
-                "plastic_bass": 3,
-                "plastic_guitar": 5
-            },
-            "charters": [
-                "LysiX"
-            ],
-            "secs": 113,
-            "id": "nyxtheshield-bring-it-on-rock-ver",
-            "art": "cover.png"
-        },
-        {
-            "zip": "Nighthawk22 - Isolation.zip",
-            "root": "Nighthawk22 - Isolation",
-            "isRootFirstDir": false,
-            "artist": "Nighthawk22",
-            "title": "Isolation",
-            "album": "Darkmatter",
-            "diffs": {
-                "drums": 6,
-                "bass": 2,
-                "guitar": 6,
-                "vocals": 6
-            },
-            "charters": [
-                "LysiX"
-            ],
-            "secs": 205,
-            "id": "nighthawk22-isolation",
-            "art": "cover.png"
-        },
-        {
             "zip": "Michael McDonald - I Keep Forgettin' (Every Time You're Near).zip",
             "root": "Michael McDonald - I Keep Forgettin' (Every Time You're Near)",
             "isRootFirstDir": false,
@@ -136,47 +46,27 @@
             "art": "cover.png"
         },
         {
-            "zip": "Queens of the Stone Age - 3's & 7's.zip",
-            "root": "Queens of the Stone Age - 3's & 7's",
+            "zip": "Deftones - My Own Summer.zip",
+            "root": "Deftones - My Own Summer",
             "isRootFirstDir": false,
-            "artist": "Queens of the Stone Age",
-            "title": "3's & 7's",
-            "album": "Era Vulgaris",
+            "artist": "Deftones",
+            "title": "My Own Summer (Shove It)",
+            "album": "Around The Fur",
             "diffs": {
-                "drums": 4,
+                "drums": 3,
                 "bass": 3,
-                "guitar": 3,
-                "vocals": 1,
-                "plastic_drums": 4,
-                "plastic_bass": 3,
-                "plastic_guitar": 3,
-                "pitched_vocals": 1
+                "guitar": 4,
+                "vocals": 2,
+                "plastic_drums": 2,
+                "plastic_bass": 4,
+                "plastic_guitar": 2
             },
             "charters": [
-                "3drosalia, Harmonix"
-            ],
-            "secs": 217,
-            "id": "queens-of-the-stone-age-3-s-7-s",
-            "art": "album.png"
-        },
-        {
-            "zip": "Dimrain47 - The Falling Mysts.zip",
-            "root": "Dimrain47 - The Falling Mysts",
-            "isRootFirstDir": false,
-            "artist": "Dimrain47",
-            "title": "The Falling Mysts",
-            "album": "The Dimrain47 Collection",
-            "diffs": {
-                "drums": 5,
-                "bass": 1,
-                "guitar": 6,
-                "vocals": 4
-            },
-            "charters": [
+                "Harmonix",
                 "LysiX"
             ],
-            "secs": 298,
-            "id": "dimrain47-the-falling-mysts",
+            "secs": 219,
+            "id": "deftones-my-own-summer-shove-it",
             "art": "cover.png"
         },
         {
@@ -223,27 +113,26 @@
             "art": "cover.png"
         },
         {
-            "zip": "Deftones - My Own Summer.zip",
-            "root": "Deftones - My Own Summer",
+            "zip": "Dimrain47 - Infernoplex.zip",
+            "root": "Dimrain47 - Infernoplex",
             "isRootFirstDir": false,
-            "artist": "Deftones",
-            "title": "My Own Summer (Shove It)",
-            "album": "Around The Fur",
+            "artist": "Dimrain47",
+            "title": "Infernoplex",
+            "album": "The Dimrain47 Collection",
             "diffs": {
-                "drums": 3,
-                "bass": 3,
-                "guitar": 4,
-                "vocals": 2,
-                "plastic_drums": 2,
-                "plastic_bass": 4,
-                "plastic_guitar": 2
+                "drums": 6,
+                "bass": 5,
+                "guitar": 6,
+                "vocals": 4,
+                "plastic_drums": 6,
+                "plastic_bass": 5,
+                "plastic_guitar": 6
             },
             "charters": [
-                "Harmonix",
                 "LysiX"
             ],
-            "secs": 219,
-            "id": "deftones-my-own-summer-shove-it",
+            "secs": 230,
+            "id": "dimrain47-infernoplex",
             "art": "cover.png"
         },
         {
@@ -264,6 +153,29 @@
             ],
             "secs": 179,
             "id": "harry-styles-late-night-talking",
+            "art": "cover.png"
+        },
+        {
+            "zip": "NyxTheShield - Bring it On (Rock Ver.).zip",
+            "root": "NyxTheShield - Bring it On (Rock Ver.)",
+            "isRootFirstDir": false,
+            "artist": "NyxTheShield",
+            "title": "Bring it On (Rock Ver.)",
+            "album": "Glitchtale OST",
+            "diffs": {
+                "drums": 5,
+                "bass": 3,
+                "guitar": 4,
+                "vocals": 4,
+                "plastic_drums": 4,
+                "plastic_bass": 3,
+                "plastic_guitar": 5
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 113,
+            "id": "nyxtheshield-bring-it-on-rock-ver",
             "art": "cover.png"
         },
         {
@@ -305,6 +217,70 @@
             "secs": 220,
             "id": "eminem-juice-wrld-godzilla",
             "art": "cover.png"
+        },
+        {
+            "zip": "Nighthawk22 - Isolation.zip",
+            "root": "Nighthawk22 - Isolation",
+            "isRootFirstDir": false,
+            "artist": "Nighthawk22",
+            "title": "Isolation",
+            "album": "Darkmatter",
+            "diffs": {
+                "drums": 6,
+                "bass": 2,
+                "guitar": 6,
+                "vocals": 6
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 205,
+            "id": "nighthawk22-isolation",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Dimrain47 - The Falling Mysts.zip",
+            "root": "Dimrain47 - The Falling Mysts",
+            "isRootFirstDir": false,
+            "artist": "Dimrain47",
+            "title": "The Falling Mysts",
+            "album": "The Dimrain47 Collection",
+            "diffs": {
+                "drums": 5,
+                "bass": 1,
+                "guitar": 6,
+                "vocals": 4
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 298,
+            "id": "dimrain47-the-falling-mysts",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Queens of the Stone Age - 3's & 7's.zip",
+            "root": "Queens of the Stone Age - 3's & 7's",
+            "isRootFirstDir": false,
+            "artist": "Queens of the Stone Age",
+            "title": "3's & 7's",
+            "album": "Era Vulgaris",
+            "diffs": {
+                "drums": 4,
+                "bass": 3,
+                "guitar": 3,
+                "vocals": 1,
+                "plastic_drums": 4,
+                "plastic_bass": 3,
+                "plastic_guitar": 3,
+                "pitched_vocals": 1
+            },
+            "charters": [
+                "3drosalia, Harmonix"
+            ],
+            "secs": 217,
+            "id": "queens-of-the-stone-age-3-s-7-s",
+            "art": "album.png"
         }
     ]
 }
