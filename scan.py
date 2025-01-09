@@ -67,7 +67,7 @@ def scan():
                         "plastic_guitar": infod.getint('song', 'diff_guitar', fallback=-1),
                         "pitched_vocals": infod.getint('song', 'diff_vocals', fallback=-1),
                     }
-                    charters = infod.get('song', 'charter')
+                    charters = [infod.get('song', 'charter')]
                     length = int(infod.getint('song', 'song_length') / 1000)
                     album = infod.get('song', 'album')
                     
