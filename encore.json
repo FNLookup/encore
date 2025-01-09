@@ -195,7 +195,9 @@
                 "plastic_guitar": 3,
                 "pitched_vocals": 1
             },
-            "charters": "foodcake",
+            "charters": [
+                "foodcake"
+            ],
             "secs": 173,
             "id": "toby-fox-core",
             "art": "album.jpg"
