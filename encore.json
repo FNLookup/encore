@@ -179,6 +179,28 @@
             "art": "cover.png"
         },
         {
+            "zip": "Toby Fox - CORE.zip",
+            "root": ".",
+            "isRootFirstDir": true,
+            "artist": "Toby Fox",
+            "title": "CORE",
+            "album": "UNDERTALE Soundtrack",
+            "diffs": {
+                "drums": 2,
+                "bass": 3,
+                "guitar": 3,
+                "vocals": 1,
+                "plastic_drums": 2,
+                "plastic_bass": 3,
+                "plastic_guitar": 3,
+                "pitched_vocals": 1
+            },
+            "charters": "foodcake",
+            "secs": 173,
+            "id": "toby-fox-core",
+            "art": "album.jpg"
+        },
+        {
             "zip": "The Living Tombstone - Die In a Fire.zip",
             "root": "The Living Tombstone - Die In a Fire",
             "isRootFirstDir": false,
