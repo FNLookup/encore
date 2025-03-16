@@ -3,6 +3,29 @@
     "RAW_path": "https://raw.githubusercontent.com/Encore-Developers/songs/main/",
     "songs": [
         {
+            "zip": "NyxTheShield - Bring it On (Rock Ver.).zip",
+            "root": "NyxTheShield - Bring it On (Rock Ver.)",
+            "isRootFirstDir": false,
+            "artist": "NyxTheShield",
+            "title": "Bring it On (Rock Ver.)",
+            "album": "Glitchtale OST",
+            "diffs": {
+                "drums": 5,
+                "bass": 3,
+                "guitar": 4,
+                "vocals": 4,
+                "plastic_drums": 4,
+                "plastic_bass": 3,
+                "plastic_guitar": 5
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 113,
+            "id": "nyxtheshield-bring-it-on-rock-ver",
+            "art": "cover.png"
+        },
+        {
             "zip": "Frizk - not askin 4 much.zip",
             "root": "Frizk - not askin 4 much",
             "isRootFirstDir": false,
@@ -26,156 +49,43 @@
             "art": "cover.png"
         },
         {
-            "zip": "Michael McDonald - I Keep Forgettin' (Every Time You're Near).zip",
-            "root": "Michael McDonald - I Keep Forgettin' (Every Time You're Near)",
+            "zip": "Dimrain47 - The Falling Mysts.zip",
+            "root": "Dimrain47 - The Falling Mysts",
             "isRootFirstDir": false,
-            "artist": "Michael McDonald",
-            "title": "I Keep Forgettin' (Every Time You're Near)",
-            "album": "If That's What It Takes",
+            "artist": "Dimrain47",
+            "title": "The Falling Mysts",
+            "album": "The Dimrain47 Collection",
             "diffs": {
-                "drums": 3,
-                "bass": 3,
-                "guitar": 3,
-                "vocals": 2
-            },
-            "charters": [
-                "Broque"
-            ],
-            "secs": 226,
-            "id": "michael-mcdonald-i-keep-forgettin-every-time-you-re-near",
-            "art": "cover.png"
-        },
-        {
-            "zip": "Deftones - My Own Summer.zip",
-            "root": "Deftones - My Own Summer",
-            "isRootFirstDir": false,
-            "artist": "Deftones",
-            "title": "My Own Summer (Shove It)",
-            "album": "Around The Fur",
-            "diffs": {
-                "drums": 3,
-                "bass": 3,
-                "guitar": 4,
-                "vocals": 2,
-                "plastic_drums": 2,
-                "plastic_bass": 4,
-                "plastic_guitar": 2
-            },
-            "charters": [
-                "Harmonix",
-                "LysiX"
-            ],
-            "secs": 219,
-            "id": "deftones-my-own-summer-shove-it",
-            "art": "cover.png"
-        },
-        {
-            "zip": "SEGA - Stardust Speedway Zone (Past).zip",
-            "root": "SEGA - Stardust Speedway Zone (Past)",
-            "isRootFirstDir": false,
-            "artist": "SEGA",
-            "title": "Stardust Speedway Zone (Past)",
-            "album": "Sonic CD",
-            "diffs": {
-                "drums": 4,
-                "bass": 5,
+                "drums": 5,
+                "bass": 1,
                 "guitar": 6,
-                "vocals": 3,
-                "plastic_drums": 5,
-                "plastic_bass": 5,
-                "plastic_guitar": 6
-            },
-            "charters": [
-                "LysiX"
-            ],
-            "secs": 160,
-            "id": "sega-stardust-speedway-zone-past",
-            "art": "cover.png"
-        },
-        {
-            "zip": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64).zip",
-            "root": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64)",
-            "isRootFirstDir": false,
-            "artist": "SEGA (Yuzo Koshiro), Encore",
-            "title": "Sky Base Zone (C64)",
-            "album": "Sonic the Hedgehog for C64",
-            "diffs": {
-                "drums": 0,
-                "bass": 4,
-                "guitar": 5,
                 "vocals": 4
             },
             "charters": [
                 "LysiX"
             ],
-            "secs": 91,
-            "id": "sega-yuzo-koshiro-encore-sky-base-zone-c64",
+            "secs": 298,
+            "id": "dimrain47-the-falling-mysts",
             "art": "cover.png"
         },
         {
-            "zip": "Dimrain47 - Infernoplex.zip",
-            "root": "Dimrain47 - Infernoplex",
+            "zip": "Nighthawk22 - Isolation.zip",
+            "root": "Nighthawk22 - Isolation",
             "isRootFirstDir": false,
-            "artist": "Dimrain47",
-            "title": "Infernoplex",
-            "album": "The Dimrain47 Collection",
+            "artist": "Nighthawk22",
+            "title": "Isolation",
+            "album": "Darkmatter",
             "diffs": {
                 "drums": 6,
-                "bass": 5,
+                "bass": 2,
                 "guitar": 6,
-                "vocals": 4,
-                "plastic_drums": 6,
-                "plastic_bass": 5,
-                "plastic_guitar": 6
+                "vocals": 6
             },
             "charters": [
                 "LysiX"
             ],
-            "secs": 230,
-            "id": "dimrain47-infernoplex",
-            "art": "cover.png"
-        },
-        {
-            "zip": "Harry Styles - Late Night Talking.zip",
-            "root": "Harry Styles - Late Night Talking",
-            "isRootFirstDir": false,
-            "artist": "Harry Styles",
-            "title": "Late Night Talking",
-            "album": "Harry's House",
-            "diffs": {
-                "drums": 2,
-                "bass": 0,
-                "guitar": 1,
-                "vocals": 2
-            },
-            "charters": [
-                "Broque"
-            ],
-            "secs": 179,
-            "id": "harry-styles-late-night-talking",
-            "art": "cover.png"
-        },
-        {
-            "zip": "NyxTheShield - Bring it On (Rock Ver.).zip",
-            "root": "NyxTheShield - Bring it On (Rock Ver.)",
-            "isRootFirstDir": false,
-            "artist": "NyxTheShield",
-            "title": "Bring it On (Rock Ver.)",
-            "album": "Glitchtale OST",
-            "diffs": {
-                "drums": 5,
-                "bass": 3,
-                "guitar": 4,
-                "vocals": 4,
-                "plastic_drums": 4,
-                "plastic_bass": 3,
-                "plastic_guitar": 5
-            },
-            "charters": [
-                "LysiX"
-            ],
-            "secs": 113,
-            "id": "nyxtheshield-bring-it-on-rock-ver",
+            "secs": 205,
+            "id": "nighthawk22-isolation",
             "art": "cover.png"
         },
         {
@@ -203,23 +113,66 @@
             "art": "album.jpg"
         },
         {
-            "zip": "The Living Tombstone - Die In a Fire.zip",
-            "root": "The Living Tombstone - Die In a Fire",
+            "zip": "SEGA - Stardust Speedway Zone (Past).zip",
+            "root": "SEGA - Stardust Speedway Zone (Past)",
             "isRootFirstDir": false,
-            "artist": "The Living Tombstone",
-            "title": "Die In a Fire",
-            "album": "Internet Childhood",
+            "artist": "SEGA",
+            "title": "Stardust Speedway Zone (Past)",
+            "album": "Sonic CD",
+            "diffs": {
+                "drums": 4,
+                "bass": 5,
+                "guitar": 6,
+                "vocals": 3,
+                "plastic_drums": 5,
+                "plastic_bass": 5,
+                "plastic_guitar": 6
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 160,
+            "id": "sega-stardust-speedway-zone-past",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Harry Styles - Late Night Talking.zip",
+            "root": "Harry Styles - Late Night Talking",
+            "isRootFirstDir": false,
+            "artist": "Harry Styles",
+            "title": "Late Night Talking",
+            "album": "Harry's House",
+            "diffs": {
+                "drums": 2,
+                "bass": 0,
+                "guitar": 1,
+                "vocals": 2
+            },
+            "charters": [
+                "Broque"
+            ],
+            "secs": 179,
+            "id": "harry-styles-late-night-talking",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Michael McDonald - I Keep Forgettin' (Every Time You're Near).zip",
+            "root": "Michael McDonald - I Keep Forgettin' (Every Time You're Near)",
+            "isRootFirstDir": false,
+            "artist": "Michael McDonald",
+            "title": "I Keep Forgettin' (Every Time You're Near)",
+            "album": "If That's What It Takes",
             "diffs": {
                 "drums": 3,
-                "bass": 2,
+                "bass": 3,
                 "guitar": 3,
                 "vocals": 2
             },
             "charters": [
-                "Equinox"
+                "Broque"
             ],
-            "secs": 189,
-            "id": "the-living-tombstone-die-in-a-fire",
+            "secs": 226,
+            "id": "michael-mcdonald-i-keep-forgettin-every-time-you-re-near",
             "art": "cover.png"
         },
         {
@@ -243,43 +196,47 @@
             "art": "cover.png"
         },
         {
-            "zip": "Nighthawk22 - Isolation.zip",
-            "root": "Nighthawk22 - Isolation",
+            "zip": "Deftones - My Own Summer.zip",
+            "root": "Deftones - My Own Summer",
             "isRootFirstDir": false,
-            "artist": "Nighthawk22",
-            "title": "Isolation",
-            "album": "Darkmatter",
+            "artist": "Deftones",
+            "title": "My Own Summer (Shove It)",
+            "album": "Around The Fur",
             "diffs": {
-                "drums": 6,
-                "bass": 2,
-                "guitar": 6,
-                "vocals": 6
+                "drums": 3,
+                "bass": 3,
+                "guitar": 4,
+                "vocals": 2,
+                "plastic_drums": 2,
+                "plastic_bass": 4,
+                "plastic_guitar": 2
             },
             "charters": [
+                "Harmonix",
                 "LysiX"
             ],
-            "secs": 205,
-            "id": "nighthawk22-isolation",
+            "secs": 219,
+            "id": "deftones-my-own-summer-shove-it",
             "art": "cover.png"
         },
         {
-            "zip": "Dimrain47 - The Falling Mysts.zip",
-            "root": "Dimrain47 - The Falling Mysts",
+            "zip": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64).zip",
+            "root": "SEGA (Yuzo Koshiro), Encore - Sky Base Zone (C64)",
             "isRootFirstDir": false,
-            "artist": "Dimrain47",
-            "title": "The Falling Mysts",
-            "album": "The Dimrain47 Collection",
+            "artist": "SEGA (Yuzo Koshiro), Encore",
+            "title": "Sky Base Zone (C64)",
+            "album": "Sonic the Hedgehog for C64",
             "diffs": {
-                "drums": 5,
-                "bass": 1,
-                "guitar": 6,
+                "drums": 0,
+                "bass": 4,
+                "guitar": 5,
                 "vocals": 4
             },
             "charters": [
                 "LysiX"
             ],
-            "secs": 298,
-            "id": "dimrain47-the-falling-mysts",
+            "secs": 91,
+            "id": "sega-yuzo-koshiro-encore-sky-base-zone-c64",
             "art": "cover.png"
         },
         {
@@ -305,6 +262,73 @@
             "secs": 217,
             "id": "queens-of-the-stone-age-3-s-7-s",
             "art": "album.png"
+        },
+        {
+            "zip": "Dimrain47 - Infernoplex.zip",
+            "root": "Dimrain47 - Infernoplex",
+            "isRootFirstDir": false,
+            "artist": "Dimrain47",
+            "title": "Infernoplex",
+            "album": "The Dimrain47 Collection",
+            "diffs": {
+                "drums": 6,
+                "bass": 5,
+                "guitar": 6,
+                "vocals": 4,
+                "plastic_drums": 6,
+                "plastic_bass": 5,
+                "plastic_guitar": 6
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 230,
+            "id": "dimrain47-infernoplex",
+            "art": "cover.png"
+        },
+        {
+            "zip": "Jetpack Joyride Main Theme.zip",
+            "root": "Jetpack Joyride Main Theme",
+            "isRootFirstDir": false,
+            "artist": "Halfbrick",
+            "title": "Jetpack Joyride Main Theme",
+            "album": "Jetpack Joyride",
+            "diffs": {
+                "drums": 5,
+                "bass": 4,
+                "guitar": 5,
+                "vocals": -1,
+                "plastic_drums": 6,
+                "plastic_bass": 4,
+                "plastic_guitar": 5,
+                "pitched_vocals": -1
+            },
+            "charters": [
+                "LysiX"
+            ],
+            "secs": 137,
+            "id": "halfbrick-jetpack-joyride-main-theme",
+            "art": "album.jpg"
+        },
+        {
+            "zip": "The Living Tombstone - Die In a Fire.zip",
+            "root": "The Living Tombstone - Die In a Fire",
+            "isRootFirstDir": false,
+            "artist": "The Living Tombstone",
+            "title": "Die In a Fire",
+            "album": "Internet Childhood",
+            "diffs": {
+                "drums": 3,
+                "bass": 2,
+                "guitar": 3,
+                "vocals": 2
+            },
+            "charters": [
+                "Equinox"
+            ],
+            "secs": 189,
+            "id": "the-living-tombstone-die-in-a-fire",
+            "art": "cover.png"
         }
     ]
 }
